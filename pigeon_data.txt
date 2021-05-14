@@ -1,0 +1,10 @@
+Subject 5 did not see a pigeon.	Elapsed time was: 20.45 seconds
+Subject 36 saw a pigeon.	Elapsed time was: 2.94 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 7.43 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 7.5 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 13.18 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 13.32 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 13.93 seconds
+Subject 5 saw a pigeon.	Elapsed time was: 14.0 seconds
+Subject 5 did not see a pigeon.	Elapsed time was: 21.38 seconds
+Subject 5 did not see a pigeon.	Elapsed time was: 21.46 seconds
